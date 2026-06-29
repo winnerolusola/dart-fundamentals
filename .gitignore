@@ -1,0 +1,8 @@
+# Dart
+.dart_tool/
+.packages
+pubspec.lock
+build/
+
+# Teaching materials (not for public repo)
+**/TEACHING_GUIDE.md

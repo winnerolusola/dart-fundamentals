@@ -1,0 +1,6 @@
+name: dart_fundamentals
+description: Dart fundamentals taught concept by concept — variables, operators, control flow, functions, and more.
+version: 1.0.0
+
+environment:
+  sdk: ^3.0.0
